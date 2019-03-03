@@ -1,0 +1,18 @@
+messages:
+  notatwar: '&8[&bTownyKeys&8] &fYour town must be in a war to use this key!'
+  targetnotatwar: '&8[&bTownyKeys&8] &fKeys can only be used on other towns that are at war'
+  keyused: '&8[&bTownyKeys&8] &fYou just used a towny key!'
+  invalidlocation: '&8[&bTownyKeys&8] &fKeys must be used on a chest!'
+  notenemytown: '&8[&bTownyKeys&8] &fYou can only use this key in a enemies town'
+  yourowntown: '&8[&bTownyKeys&8] &fNo need to use a key in your own town'
+  keyadded: '&8[&bTownyKeys&8] &fYou just got %amount% towny keys!'
+
+keyitem:
+  enchanted: true
+  material: STICK
+  name: '&bKey'
+  lore:
+  - '&fThis key can open a chest in an enemy town'
+  - '&fRight click on a chest to open it'
+  - '&fThis key will be destroyed after it is used'
+

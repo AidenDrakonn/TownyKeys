@@ -1,0 +1,8 @@
+name: TownyKeys
+version: 1.0
+main: me.drakonn.townykeys.TownyKeys
+author: Drakonn
+commands:
+  townykeys:
+    aliases: [tk]
+    description: Give a player a towny key
